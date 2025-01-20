@@ -1,4 +1,4 @@
-# 3D Headline anbd Paragraph in CSS <br>
+# 3D Headline and Paragraph in CSS <br>
 * developed by Tawhidur Rahman Dear, https://www.tawhidurrahmandear.com <br>
 * Released under MIT License on Github at https://github.com/tawhidurrahmandear/3d-text <br><br>
 
