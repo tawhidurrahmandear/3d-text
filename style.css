@@ -1,0 +1,34 @@
+ /* 3D Headline and Paragraph  */
+ /* developed by Tawhidur Rahman Dear, https://www.tawhidurrahmandear.com */
+ /* Live Preview available at https://tawhidurrahmandear.github.io/3d-text */
+
+body {
+  perspective: 200px;
+  text-align: justify;
+  font-family: "Tahoma", "Trebuchet MS", sans-serif;
+}
+
+h2 {
+  margin: 0;
+  padding: 20px
+  font-size: 40px;
+}
+p {
+  margin: 0;
+  padding: 20px
+  font-size: 20px;
+}
+
+p, h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotateY(15deg);
+  transform-style: preserve-3d;
+  transition: transform 1s ease;
+}
+
+body:hover p, 
+body:hover h2 {
+  transform: rotateY(0); 
+}
