@@ -16,5 +16,5 @@ A brilliant and daring spy <br>
 A heart both cruel and beautiful, blending softness with stone. <br>
 Wherever he witnesses injustice, oppression, or tyranny, he stands firm against it. <br><br>
 
-# 3D Live Preview 
+# 3D Text Preview 
 [https://tawhidurrahmandear.github.io/3d-text](https://tawhidurrahmandear.github.io/3d-text)
